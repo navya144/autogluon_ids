@@ -1,1 +1,4 @@
-# autogluon_ids
+Activate conda environment:
+```bash
+conda activate ag
+```
